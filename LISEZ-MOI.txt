@@ -1,0 +1,12 @@
+META COUTURE - SITE PORTFOLIO
+
+Contenu : index.html (la page), dossier images/ (les photos), vercel.json.
+
+Pour le mettre en ligne avec Vercel :
+1. Decompressez ce fichier ZIP sur votre ordinateur.
+2. Allez sur vercel.com/new (ou ouvrez le tableau de bord Vercel) et connectez-vous.
+3. Glissez-deposez le dossier decompresse "meta-couture" sur la page (ou utilisez la commande : npx vercel dans le dossier).
+4. Choisissez "Other" comme Framework, laissez le reste vide, puis "Deploy".
+
+Pour modifier un texte : ouvrez index.html avec un editeur de texte, changez le texte, puis redeployez.
+Pour changer une photo : remplacez le fichier dans images/ en gardant le meme nom.
